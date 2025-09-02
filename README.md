@@ -109,7 +109,7 @@ Mag = -0.60Lat + 1.20Long - 0.0008Depth + 0.023Stations + 0.157
 ## 👨‍💻 How to Run  
 
 # Clone the repository
-git clone https://github.com/your-username/Earthquake-Prediction-ML.git
+gh repo clone SuryaAbyss/Earthquake-prediction-using-Machine-learning-models
 
 # Navigate into the folder
 cd Earthquake-Prediction-ML
